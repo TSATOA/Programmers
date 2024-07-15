@@ -1,2 +1,3 @@
-# Programmers
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 프로그래머스 문제 풀이 모음
+
+프로그래머스에서 풀었던 다양한 알고리즘 문제들을 모아놓은 저장소입니다.
